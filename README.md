@@ -1,5 +1,3 @@
-# AI-Brain-Tumor-Analysis-System
-
 <div align="center">
   <h1> AI Brain Tumor Analysis System</h1>
   <p><i>End-to-End Deep Learning Pipeline for Tumor Classification, Detection, and Segmentation</i></p>
@@ -7,7 +5,7 @@
 
 ---
 
-##  Overview
+## 🚀 Overview
 
 This project presents a complete AI-powered medical imaging system for **brain tumor analysis** using MRI scans.  
 It integrates multiple deep learning models into a unified pipeline to deliver accurate and efficient results.
@@ -23,12 +21,12 @@ Additionally, a **Streamlit web application** is provided for real-time interact
 
 ## 🚀 Features
 
-- ✅ High-accuracy tumor classification model (EfficientNet)
-- ✅ Real-time tumor detection (YOLOv8)
-- ✅ Pixel-level tumor segmentation (U-Net)
-- ✅ Interactive UI باستخدام Streamlit
-- ✅ Modular and scalable pipeline design
-- ✅ Ready for deployment and extension
+-  High-accuracy tumor classification model (EfficientNet)
+-  Real-time tumor detection (YOLOv8)
+-  Pixel-level tumor segmentation (U-Net)
+-  Interactive UI Using Streamlit
+-  Modular and scalable pipeline design
+- Ready for deployment and extension
 
 ---
 
@@ -39,12 +37,3 @@ Additionally, a **Streamlit web application** is provided for real-time interact
 | Classification  | EfficientNet  | Classifies MRI images into tumor categories |
 | Detection       | YOLOv8n       | Detects and localizes tumor regions |
 | Segmentation    | U-Net         | Performs pixel-wise tumor segmentation |
-
----
-
-## 🖥️ Deploy the project using (Streamlit App)
-
-Run the application locally:
-
-```bash
-streamlit run Streamlit_app.py
